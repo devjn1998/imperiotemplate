@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 6000 6000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #0a1944;
+        stroke-miterlimit: 10;
+        stroke-width: 16px;
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_9);
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_6);
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_12);
+      }
+
+      .cls-5 {
+        opacity: .5;
+      }
+
+      .cls-6 {
+        fill: url(#Gradiente_sem_nome_15);
+        fill-opacity: .1;
+      }
+
+      .cls-7 {
+        fill: url(#Gradiente_sem_nome_14);
+      }
+
+      .cls-8 {
+        fill: url(#Gradiente_sem_nome_3);
+      }
+
+      .cls-9 {
+        fill: url(#Gradiente_sem_nome_4);
+      }
+
+      .cls-10 {
+        fill: #3f38ee;
+      }
+
+      .cls-11 {
+        fill: url(#Gradiente_sem_nome_2);
+      }
+
+      .cls-12 {
+        fill: url(#Gradiente_sem_nome_8);
+      }
+
+      .cls-13 {
+        fill: url(#Gradiente_sem_nome_7);
+      }
+
+      .cls-14 {
+        fill: url(#Gradiente_sem_nome_13);
+      }
+
+      .cls-15 {
+        fill: url(#Gradiente_sem_nome_10);
+      }
+
+      .cls-16 {
+        fill: url(#Gradiente_sem_nome_11);
+      }
+
+      .cls-17 {
+        fill: url(#Gradiente_sem_nome_5);
+      }
+    </style>
+    <radialGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" cx="3283.89" cy="4080.91" fx="3283.89" fy="4080.91" r=".5" gradientTransform="translate(-19700366.2 24488456.21) scale(6000 -6000)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_3" data-name="Gradiente sem nome 3" cx="3283.84" cy="4080.94" fx="3283.84" fy="4080.94" r=".5" gradientTransform="translate(-13132356.3 16326777.29) scale(4000 -4000)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_4" data-name="Gradiente sem nome 4" cx="3283.82" cy="4080.96" fx="3283.82" fy="4080.96" r=".5" gradientTransform="translate(-11818754.32 14694441.51) scale(3600 -3600)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_5" data-name="Gradiente sem nome 5" cx="3283.81" cy="4080.96" fx="3283.81" fy="4080.96" r=".5" gradientTransform="translate(-11161953.33 13878273.61) scale(3400 -3400)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_6" data-name="Gradiente sem nome 6" cx="3283.8" cy="4080.97" fx="3283.8" fy="4080.97" r=".5" gradientTransform="translate(-10840120.84 13478351.35) scale(3302 -3302)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_7" data-name="Gradiente sem nome 7" cx="3283.78" cy="4080.98" fx="3283.78" fy="4080.98" r=".5" gradientTransform="translate(-9519950.85 11837853.88) scale(2900 -2900)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_8" data-name="Gradiente sem nome 8" cx="3283.74" cy="4081.01" fx="3283.74" fy="4081.01" r=".5" gradientTransform="translate(-8206348.87 10205518.1) scale(2500 -2500)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_9" data-name="Gradiente sem nome 9" cx="3283.72" cy="4081.02" fx="3283.72" fy="4081.02" r=".5" gradientTransform="translate(-7713748.13 9593392.18) scale(2350 -2350)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_10" data-name="Gradiente sem nome 10" cx="3283.64" cy="4081.07" fx="3283.64" fy="4081.07" r=".5" gradientTransform="translate(-5907545.41 7348930.48) scale(1800 -1800)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_11" data-name="Gradiente sem nome 11" cx="3283.56" cy="4081.12" fx="3283.56" fy="4081.12" r=".5" gradientTransform="translate(-4922343.92 6124678.64) scale(1500 -1500)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_12" data-name="Gradiente sem nome 12" cx="3283.34" cy="4081.26" fx="3283.34" fy="4081.26" r=".5" gradientTransform="translate(-3280341.45 4084258.91) scale(1000 -1000)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_13" data-name="Gradiente sem nome 13" cx="3283.13" cy="4081.39" fx="3283.13" fy="4081.39" r=".5" gradientTransform="translate(-2492180.26 3104857.44) scale(760 -760)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_14" data-name="Gradiente sem nome 14" cx="3282.68" cy="4081.68" fx="3282.68" fy="4081.68" r=".5" gradientTransform="translate(-1638338.97 2043839.18) scale(500 -500)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_15" data-name="Gradiente sem nome 15" cx="3283.89" cy="4080.91" fx="3283.89" fy="4080.91" r=".5" gradientTransform="translate(-19700366.2 24488456.21) scale(6000 -6000)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb3"/>
+      <stop offset="1" stop-color="#3f38ee"/>
+    </radialGradient>
+  </defs>
+  <rect class="cls-10" x="2581.5" y="2911.45" width="2000" height="1500"/>
+  <g>
+    <circle class="cls-11" cx="3000" cy="3000" r="3000"/>
+    <g class="cls-5">
+      <circle class="cls-8" cx="3000" cy="3000" r="2000"/>
+      <circle class="cls-9" cx="3000" cy="3000" r="1800"/>
+      <circle class="cls-17" cx="3000" cy="3000" r="1700"/>
+      <circle class="cls-3" cx="3000" cy="3000" r="1651"/>
+      <circle class="cls-13" cx="3000" cy="3000" r="1450"/>
+      <circle class="cls-12" cx="3000" cy="3000" r="1250"/>
+      <circle class="cls-2" cx="3000" cy="3000" r="1175"/>
+      <circle class="cls-15" cx="3000" cy="3000" r="900"/>
+      <circle class="cls-16" cx="3000" cy="3000" r="750"/>
+      <circle class="cls-4" cx="3000" cy="3000" r="500"/>
+      <circle class="cls-14" cx="3000" cy="3000" r="380"/>
+      <circle class="cls-7" cx="3000" cy="3000" r="250"/>
+    </g>
+    <circle class="cls-6" cx="3000" cy="3000" r="3000"/>
+  </g>
+  <g>
+    <rect class="cls-1" x="4056.06" y="3032.98" width="185.38" height="112.79" transform="translate(-972.21 2359.94) rotate(-28.57)"/>
+    <polygon class="cls-1" points="4049.18 3079.96 4126.49 3038.37 4195.82 3000 4171.6 3065.74 4155.7 3099.14 4125.13 3096.17 4049.18 3079.96"/>
+    <line class="cls-1" x1="4168.62" y1="3074.83" x2="4257.12" y2="3094.58"/>
+    <line class="cls-1" x1="4130.71" y1="3095.94" x2="4094.31" y2="3183.22"/>
+  </g>
+  <g>
+    <path class="cls-1" d="m3828.92,3120.41l131.18,52.15s26.44-77.07-35.62-99.71c-62.06-22.65-95.56,47.56-95.56,47.56Z"/>
+    <ellipse class="cls-1" cx="3937.54" cy="3040.29" rx="35.08" ry="34.98" transform="translate(-349.73 5563.57) rotate(-68.15)"/>
+  </g>
+  <path class="cls-1" d="m3660.66,3066.8s13.94,40.82,59.03,54.44c0,0,14.93-10.26,14.37-14.25s39.59,11.53,45.91,37.95c0,0-9.45,25.87-33.39,25.36-36.83-.78-63.37-16.6-86.39-38.22-20.6-19.34-40.31-50.96-41.49-109.48,0,0,5.63-20.76,22.67-23.98,17.04-3.22,33.93,45.34,33.93,45.34l-14.64,22.85Z"/>
+  <polygon class="cls-1" points="4375.57 3140.08 4414.96 3116.07 4392.17 3078.09 4416.6 3063.2 4439.92 3100.86 4479.84 3076.53 4444.66 3017.63 4467.62 3003.28 4429.35 2993.1 4408.96 2959.06 4381.06 2975.35 4386.29 2983.33 4343.97 2974.18 4316.84 3093.38 4339.38 3080.72 4375.57 3140.08"/>
+</svg>
